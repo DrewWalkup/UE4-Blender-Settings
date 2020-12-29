@@ -73,7 +73,7 @@ Most 3D applications use this type of navigation (or at least have it as an opti
 
 ![Blender Load Factory Settings](/images/blender_load_factory.png)
 
-2. Switch from the *Outliner* to Text Editor, then click the "New" button:
+2. Switch from the *Outliner* to Text Editor, then click the "New" button:  
 *Important: The 3d Viewport must remain open if you want to implement world grid & clip plane adjustment*
 
 ![Blender Load Text Editor](/images/blender_text_editor.png)
