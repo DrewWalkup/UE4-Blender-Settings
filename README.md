@@ -2,7 +2,7 @@
 
 This script was configured to help those familiar with UE4 and Maya to adapt to Blender more effectivly.
 
-###### Goals:
+**Goals:**
 
 1. 3D Viewport navigation (only) similar to Unreal Editor / Maya
 2. Export settings for Unreal Engine
@@ -12,7 +12,7 @@ Default Blender shortcuts have been left mostly unaltered as this would hinder l
 
 ## Implementation
 
-###### Blender 3D Viewport navigation - Pan, Orbit, and Zoom
+**Blender 3D Viewport navigation - Pan, Orbit, and Zoom**
 
 Unreal Editor / Maya - pan, orbit, and zoom viewport controls:
 - **Alt + LMB + Drag** - Tumbles the viewport around a single pivot or point of interest.
@@ -20,7 +20,7 @@ Unreal Editor / Maya - pan, orbit, and zoom viewport controls:
 - **Alt + MMB + Drag** - Tracks the camera left, right, up, and down in the direction of mouse movement.
 
 
-###### Game-style (WASD) navigation (already default in Blender, called "Walk Mode")
+**Game-style (WASD) navigation (already default in Blender, called "Walk Mode")**
 
 Menu: View ‣ Navigation ‣ Walk Navigation
 Hotkey: **Shift-F**
@@ -36,7 +36,7 @@ This navigation mode behaves similar to the first person navigation system avail
 - Change the movement speed: **WheelUp** to increase the movement speed. **WheelDown** to decrease the movement speed.
 
 
-###### Conflicting shortcuts that have been replaced
+**Conflicting shortcuts that have been replaced**
 
 **Loop Select**
 Mode: Edit Mode
@@ -59,7 +59,7 @@ Original hotkey: **Alt-LMB**
 New hotkey: **Alt-LMB(double-click)**
 
 
-###### Important setting in Unreal Engine
+**Important setting in Unreal Engine**
 
 Please note that this script assumes that you have Maya-style "Invert Middle Mouse Pan" option enabled in your Unreal Editor.
 Most 3D applications use this type of navigation (or at least have it as an option). You can enable it in Unreal Editor by going to Edit -> Editor Preferences -> Viewports and then clicking "Invert Middle Mouse Pan" checkbox.
