@@ -22,7 +22,7 @@ Unreal Editor / Maya - pan, orbit, and zoom viewport controls:
 
 **Game-style (WASD) navigation (already default in Blender, called "Walk Mode")**
 
-Menu: View ‣ Navigation ‣ Walk Navigation
+Menu: View ‣ Navigation ‣ Walk Navigation  
 Hotkey: **Shift-F**
 
 **Usage**
@@ -33,34 +33,31 @@ This navigation mode behaves similar to the first person navigation system avail
 - Strafe left/right **(A / D)**.
 - Move down and up **(Q / E)** - only in ‘free’ mode.
 - Alternate between ‘free’ and ‘gravity’ modes **(Tab)**.
-- Change the movement speed: **WheelUp** to increase the movement speed. **WheelDown** to decrease the movement speed.
+- Change the movement speed: **WheelUp** to increase the movement speed. **WheelDown** to decrease the movement speed.  
 
 
 **Conflicting shortcuts that have been replaced**
 
-**Loop Select**
+**Loop Select**  
+Mode: Edit Mode  
+Original hotkey: **Alt-RMB**  
+New hotkey: **Alt-RMB(double-click)**  
 
-Mode: Edit Mode
+**Linear Weight Gradient**  
+Mode: Weight Paint  
+Original hotkey: **Alt-LMB**  
+New hotkey: **Alt-Shift-LMB**  
 
-Original hotkey: **Alt-RMB**
+**Radial Weight Gradient**  
+Mode: Weight Paint  
+Original hotkey: **Alt-Ctrl-LMB**  
+New hotkey: **Alt-Shift-Ctrl-LMB**  
 
-New hotkey: **Alt-RMB(double-click)**
-
-**Linear Weight Gradient**
-Mode: Weight Paint
-Original hotkey: **Alt-LMB**
-New hotkey: **Alt-Shift-LMB**
-
-**Radial Weight Gradient**
-Mode: Weight Paint
-Original hotkey: **Alt-Ctrl-LMB**
-New hotkey: **Alt-Shift-Ctrl-LMB**
-
-**Select Object Menu**
-Mode: Object Mode
-Original hotkey: **Alt-LMB**
-New hotkey: **Alt-LMB(double-click)**
-
+**Select Object Menu**  
+Mode: Object Mode  
+Original hotkey: **Alt-LMB**  
+New hotkey: **Alt-LMB(double-click)**  
+  
 
 **Important setting in Unreal Engine**
 
@@ -98,7 +95,7 @@ Enjoy!
 
 Unreal-friendly configuration for Blender
 
-Version: 0.5
-Last updated: December 22, 2020
-Original Author: @mission (UE Forums)
-Update to Blender 2.91: @dnwalkup (UE Forums)
+Version: 0.5  
+Last updated: December 22, 2020  
+Original Author: @mission (UE Forums)  
+Update to Blender 2.91: @dnwalkup (UE Forums)  
