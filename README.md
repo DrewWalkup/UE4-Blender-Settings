@@ -39,8 +39,11 @@ This navigation mode behaves similar to the first person navigation system avail
 **Conflicting shortcuts that have been replaced**
 
 **Loop Select**
+
 Mode: Edit Mode
+
 Original hotkey: **Alt-RMB**
+
 New hotkey: **Alt-RMB(double-click)**
 
 **Linear Weight Gradient**
