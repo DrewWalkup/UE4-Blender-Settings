@@ -1,4 +1,4 @@
-READ ME - UE4_Blender_Settings
+## READ ME - UE4_Blender_Settings
 
 This script was configured to help those familiar with UE4 and Maya to adapt to Blender more effectivly.
 
